@@ -1,0 +1,16 @@
+{
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU",
+  "best_epoch": 5,
+  "best_val_macro_f1": 1.0,
+  "exact_loss": 0.18910051882266998,
+  "exact_metrics": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "total": 14,
+    "correct": 14
+  },
+  "elapsed_seconds": 42.31
+}

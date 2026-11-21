@@ -1,0 +1,226 @@
+[
+  {
+    "index": 0,
+    "key": "black_jiang",
+    "faction": "黑",
+    "name": "将",
+    "score": 10,
+    "display": "黑-将-10分",
+    "file": "base/00_black_jiang.png",
+    "width": 483,
+    "height": 479,
+    "source_path": "word/media/image1.png",
+    "source_size": [
+      483,
+      479
+    ]
+  },
+  {
+    "index": 1,
+    "key": "black_shi",
+    "faction": "黑",
+    "name": "士",
+    "score": 3,
+    "display": "黑-士-3分",
+    "file": "base/01_black_shi.png",
+    "width": 483,
+    "height": 485,
+    "source_path": "word/media/image2.png",
+    "source_size": [
+      483,
+      485
+    ]
+  },
+  {
+    "index": 2,
+    "key": "black_xiang",
+    "faction": "黑",
+    "name": "象",
+    "score": 4,
+    "display": "黑-象-4分",
+    "file": "base/02_black_xiang.png",
+    "width": 483,
+    "height": 485,
+    "source_path": "word/media/image3.png",
+    "source_size": [
+      483,
+      485
+    ]
+  },
+  {
+    "index": 3,
+    "key": "black_ma",
+    "faction": "黑",
+    "name": "馬",
+    "score": 7,
+    "display": "黑-馬-7分",
+    "file": "base/03_black_ma.png",
+    "width": 211,
+    "height": 208,
+    "source_path": "word/media/image4.png",
+    "source_size": [
+      1603,
+      234
+    ]
+  },
+  {
+    "index": 4,
+    "key": "black_pao",
+    "faction": "黑",
+    "name": "炮",
+    "score": 6,
+    "display": "黑-炮-6分",
+    "file": "base/04_black_pao.png",
+    "width": 210,
+    "height": 212,
+    "source_path": "word/media/image4.png",
+    "source_size": [
+      1603,
+      234
+    ]
+  },
+  {
+    "index": 5,
+    "key": "black_che",
+    "faction": "黑",
+    "name": "車",
+    "score": 9,
+    "display": "黑-車-9分",
+    "file": "base/05_black_che.png",
+    "width": 210,
+    "height": 209,
+    "source_path": "word/media/image4.png",
+    "source_size": [
+      1603,
+      234
+    ]
+  },
+  {
+    "index": 6,
+    "key": "black_zu",
+    "faction": "黑",
+    "name": "卒",
+    "score": 1,
+    "display": "黑-卒-1分",
+    "file": "base/06_black_zu.png",
+    "width": 211,
+    "height": 212,
+    "source_path": "word/media/image4.png",
+    "source_size": [
+      1603,
+      234
+    ]
+  },
+  {
+    "index": 7,
+    "key": "red_shuai",
+    "faction": "红",
+    "name": "帅",
+    "score": 10,
+    "display": "红-帅-10分",
+    "file": "base/07_red_shuai.png",
+    "width": 211,
+    "height": 220,
+    "source_path": "word/media/image5.png",
+    "source_size": [
+      1582,
+      240
+    ]
+  },
+  {
+    "index": 8,
+    "key": "red_shi",
+    "faction": "红",
+    "name": "仕",
+    "score": 3,
+    "display": "红-仕-3分",
+    "file": "base/08_red_shi.png",
+    "width": 211,
+    "height": 209,
+    "source_path": "word/media/image5.png",
+    "source_size": [
+      1582,
+      240
+    ]
+  },
+  {
+    "index": 9,
+    "key": "red_xiang",
+    "faction": "红",
+    "name": "相",
+    "score": 4,
+    "display": "红-相-4分",
+    "file": "base/09_red_xiang.png",
+    "width": 210,
+    "height": 212,
+    "source_path": "word/media/image5.png",
+    "source_size": [
+      1582,
+      240
+    ]
+  },
+  {
+    "index": 10,
+    "key": "red_ma",
+    "faction": "红",
+    "name": "馬",
+    "score": 7,
+    "display": "红-馬-7分",
+    "file": "base/10_red_ma.png",
+    "width": 210,
+    "height": 209,
+    "source_path": "word/media/image5.png",
+    "source_size": [
+      1582,
+      240
+    ]
+  },
+  {
+    "index": 11,
+    "key": "red_pao",
+    "faction": "红",
+    "name": "炮",
+    "score": 6,
+    "display": "红-炮-6分",
+    "file": "base/11_red_pao.png",
+    "width": 211,
+    "height": 216,
+    "source_path": "word/media/image5.png",
+    "source_size": [
+      1582,
+      240
+    ]
+  },
+  {
+    "index": 12,
+    "key": "red_che",
+    "faction": "红",
+    "name": "車",
+    "score": 9,
+    "display": "红-車-9分",
+    "file": "base/12_red_che.png",
+    "width": 211,
+    "height": 209,
+    "source_path": "word/media/image5.png",
+    "source_size": [
+      1582,
+      240
+    ]
+  },
+  {
+    "index": 13,
+    "key": "red_bing",
+    "faction": "红",
+    "name": "兵",
+    "score": 1,
+    "display": "红-兵-1分",
+    "file": "base/13_red_bing.png",
+    "width": 214,
+    "height": 209,
+    "source_path": "word/media/image5.png",
+    "source_size": [
+      1582,
+      240
+    ]
+  }
+]
